@@ -1,0 +1,2 @@
+# predicate-location_check
+predicateのlocation_checkに関するデータパックサンプルになります。
